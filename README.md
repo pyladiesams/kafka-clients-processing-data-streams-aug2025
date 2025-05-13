@@ -1,9 +1,8 @@
-
-# { WORKSHOP NAME } 
+# Live Data Dive: Apache Kafka® Clients and Processing Data Streams
 ### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop you will learn how to set up a Kafka producer client, then process the data to make it ready for downstream consumers (which you will also learn how to use). We will also discuss the basic of Kafka and get a handle on the different ways to process the data. 
 
 ## Requirements
 * PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
@@ -39,7 +38,7 @@ After you have specified the Python version, you can create a virtual environmen
 Re-watch [this YouTube stream](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and @Cerchie
 
 
 ## Appendix
